@@ -1,0 +1,248 @@
+Test Cases,TEST CASE ID,Sample Summary
+User Testing,,
+  User testing - Add Admin,USER-0001,Verify that admin user is saved and displayed successfully.
+  User testing - Add Salesperson,USER-0002,Verify that standard user is saved and displayed successfully.
+  User testing - Add Customer,USER-0003,Verify that standard user is saved and displayed successfully.
+  User testing - Edit,USER-0004,Verify that user is modified and displayed successfully.
+  User testing - Delete,USER-0005,Verify that user is deleted successfully.
+  User testing - Deactivate,USER-0006,Verify that user is deactivated successfully.
+  User testing - Show Deactivated,USER-0007,Verify that deactivated users are properly displayed.
+  User testing - Filter,USER-0008,Verify that search filters work successfully.
+  User testing - Search,USER-0009,Verify that search feature is working successfully.
+  User testing - Sort,USER-0010,Verify that sorting feature is working successfully.
+Category Testing,,
+  Category testing - Add,CAT-0001,Verify that category is saved and displayed successfully.
+  Category testing - Edit,CAT-0002,Verify that category is modified and displayed successfully.
+  Category testing - Delete,CAT-0003,Verify that category is deleted successfully.
+  Category testing - Hide/Show,CAT-0004,Verify that category hide/show feature is working successfully.
+  Category testing - Filter,CAT-0005,Verify that search filters work successfully.
+  Category testing - Search,CAT-0006,Verify that search feature is working successfully.
+  Category testing - Sort,CAT-0007,Verify that sorting feature is working successfully.
+Product Testing,,
+  Product testing - Add,PROD-0001,Verify that product is saved and displayed successfully.
+  Product testing - Edit,PROD-0002,Verify that product is modified and displayed successfully.
+  Product testing - Delete,PROD-0003,Verify that product is deleted successfully.
+  Product testing - Hide/Show,PROD-0004,Verify that product hide/show feature is working successfully.
+  Product testing - Filter,PROD-0005,Verify that search filters work successfully.
+  Product testing - Search,PROD-0006,Verify that search feature is working successfully.
+  Product testing - Sort,PROD-0007,Verify that sorting feature is working successfully.
+Inventory Testing,,
+  Inventory testing - Add,INV-0001,Verify that inventory item is saved and displayed successfully.
+  Inventory testing - Edit,INV-0002,Verify that inventory item is modified and displayed successfully.
+  Inventory testing - Delete,INV-0003,Verify that inventory item is deleted successfully.
+  Inventory testing - Filter,INV-0004,Verify that search filters work successfully.
+  Inventory testing - Search,INV-0005,Verify that search feature is working successfully.
+  Inventory testing - Sort,INV-0006,Verify that sorting feature is working successfully.
+Customer Testing,,
+  Customer testing - Add,CUST-0001,Verify that customer is saved and displayed successfully.
+  Customer testing - Edit,CUST-0002,Verify that customer is modified and displayed successfully.
+  Customer testing - Delete,CUST-0003,Verify that customer is deleted successfully.
+  Customer testing - Hide/Show,CUST-0004,Verify that customer hide/show feature is working successfully.
+  Customer testing - Filter,CUST-0005,Verify that search filters work successfully.
+  Customer testing - Search,CUST-0006,Verify that search feature is working successfully.
+  Customer testing - Sort,CUST-0007,Verify that sorting feature is working successfully.
+  Customer testing - Import,CUST-0008,Verify that customer import is working successfully.
+Catalog Testing,,
+  Catalog testing - Setup,CATA-0001,Verify that online catalog is configured successfully.
+  Catalog testing - Add Product,CATA-0002,Verify that product is added and displayed in the online catalog successfully.
+  Catalog testing - Remove Product,CATA-0003,Verify that product is removed from online catalog successfully.
+  Catalog testing - Filter,CATA-0004,Verify that search filters work successfully.
+  Catalog testing - Search,CATA-0005,Verify that search feature is working successfully.
+  Catalog testing - Sort,CATA-0006,Verify that sorting feature is working successfully.
+Delivery Rate Testing,,
+  Delivery Rate testing - Add,DEL-0001,Verify that delivery rate is saved and displayed successfully.
+  Delivery Rate testing - Edit,DEL-0002,Verify that delivery rate is modified and displayed successfully.
+  Delivery Rate testing - Delete,DEL-0003,Verify that delivery rate is deleted successfully.
+  Delivery Rate testing - Hide/Show,DEL-0004,Verify that discount rate hide/show feature is working successfully.
+  Delivery Rate testing - Filter,DEL-0005,Verify that search filters work successfully.
+  Delivery Rate testing - Search,DEL-0006,Verify that search feature is working successfully.
+  Delivery Rate testing - Sort,DEL-0007,Verify that sorting feature is working successfully.
+Discount Testing,,
+  Discount testing - Add,DISC-0001,Verify that discount is saved and displayed successfully.
+  Discount testing - Edit,DISC-0002,Verify that discount is modified and displayed successfully.
+  Discount testing - Delete,DISC-0003,Verify that discount is deleted successfully.
+  Discount testing - Hide/Show,DISC-0004,Verify that discount hide/show feature is working successfully.
+  Discount testing - Filter,DISC-0005,Verify that search filters work successfully.
+  Discount testing - Search,DISC-0006,Verify that search feature is working successfully.
+  Discount testing - Sort,DISC-0007,Verify that sorting feature is working successfully.
+POS Testing,,
+  POS testing - Set Customer,POS-0001,Verify that customer can be set successfully.
+  POS testing - Display Type,POS-0002,Verify that product display can be changed successfully.
+  POS testing - Bar Code,POS-0003,Verify that bar code feature is working successfully.
+  POS testing - Search Product,POS-0004,Verify that search feature is working successfully.
+  POS testing - Select Product,POS-0005,Verify that a product can be added to cart.
+  POS testing - Remove Product,POS-0006,Verify that a product can be removed from the cart.
+  POS testing - Apply Discount,POS-0007,Verify that a discount can be applied.
+  POS testing - Payment Method,POS-0008,Verify that payment methods work successfully.
+  POS testing - Checkout,POS-0009,Verify that checkout is working successfully.
+  POS testing - Receipt,POS-0010,Verify that receipt is generated successfully
+  POS testing - Cancel,POS-0011,Verify that checkout can be canceled successfully.
+Order Testing,,
+  Order testing - Change Status,ORD-0001,Verify that an order status can be changed successfully.
+  Order testing - Cancel,ORD-0002,Verify that an order can be canceled successfully.
+  Order testing - Complete,ORD-0003,Verify that an order can be completed successfully.
+  Order testing - Filter,ORD-0004,Verify that search filters work successfully.
+  Order testing - Search,ORD-0005,Verify that search feature is working successfully.
+  Order testing - Sort,ORD-0006,Verify that sorting feature is working successfully.
+Reports Testing,,
+  Transaction Reports,,
+    Transaction Reports testing - Filter,TRX-0001,Verify that search filters work successfully.
+    Transaction Reports testing - Search,TRX-0002,Verify that search feature is working successfully.
+    Transaction Reports testing - Select Salespersons,TRX-0003,Verify that salesperson(s) can be selected successfully.
+    Transaction Reports testing - Export as PDF,TRX-0004,Verify that a transaction report can be exported as PDF successfully.
+    Transaction Reports testing - Export as CSV,TRX-0004,Verify that a transaction report can be exported as CSV successfully.
+    Transaction Reports testing - Export as XLSX,TRX-0005,Verify that a transaction report can be exported as XLSX successfully.
+  Analytics Reports,,
+    Analytics Reports testing - Filter,REP-0001,Verify that search filters work successfully.
+    Analytics Reports testing - Export as PDF,REP-0002,Verify that an analytics report can be exported as PDF successfully.
+    Analytics Reports testing - Export as PNG,REP-0003,Verify that an analytics report can be exported as PNG successfully.
+Settings Testing,,
+  General Settings,,
+    Currency testing,SET-0001,Verify that currency can be set work successfully.
+    Decimal Precision testing,SET-0002,Verify that decimal precision is working.
+    Display Canceled Orders testing,SET-0003,Verify that display canceled orders is working.
+    Checkout Sorting testing,SET-0004,Verify that checkout sorting is working.
+    Pay Later Method testing,SET-0005,Verify that pay later method is working.
+  Business Information,,
+    Change Logo testing,SET-0006,Verify that change logo is working.
+    Business Name testing,SET-0007,Verify that business name can be set successfully.
+    Phone Number testing,SET-0008,Verify that phone number can be set successfully.
+    Address Line testing,SET-0009,Verify that address line can be set successfully.
+  Receipt Settings,,
+    Display Customer Info testing,SET-0010,Verify that display customer info is working.
+    Optional Header testing,SET-0011,Verify that optional heading can be set successfully.
+    Optional Footer testing,SET-0012,Verify that optional footer can be set successfully.
+  Sales Tax Settings,,
+    Collect Sales Tax testing,SET-0013,Verify that display sales tax is working.
+    Sales Tax Type testing,SET-0014,Verify that sales tax type can be set successfully.
+    Sales Tax Description testing,SET-0015,Verify that sales tax description can be set successfully.
+    Sales Tax Inclusion testing,SET-0016,Verify that inclusion can be set successfully.
+    Allow Exemption testing,SET-0017,Verify that allow exemption is working.
+  Delivery Rates Settings,,
+    Allow Delivery testing,SET-0018,Verify that allow delivery feature is working.
+  Backup and Restore,,
+    Full Backup testing,SET-0019,Verify that the full backup file is saved successsfully.
+    Import from Backup testing,SET-0020,Verify that a backup file can be imported successfully.
+    Restore Defaults testing,SET-0021,Verify that the default settings are restored to defaults successfully.
+Helpdesk Testing,,
+  Helpdesk testing - Create Support Ticket,HELP-0001,Verify that a support ticket can be created successfully.
+  Helpdesk testing - Reply to Support Ticket Thread,HELP-0002,Verify that user can reply to the support ticket thread.
+  Helpdesk testing - Search for Help,HELP-0003,Verify that the search for help feature is working.
+  Helpdesk testing - FAQs,HELP-0004,Verify that FAQs are displayed successfully.
+  Helpdesk testing - Exit Helpdesk,HELP-0005,Verify that the Help Desk can be exited successfully.
+UI Testing,,
+  User Interface Testing,,
+    User testing,UI-0001,"Verify that icons, texts, and other elements are displayed properly."
+    Authentication testing,UI-0002,"Verify that icons, texts, and other elements are displayed properly."
+    Category testing,UI-0003,"Verify that icons, texts, and other elements are displayed properly."
+    Product testing,UI-0004,"Verify that icons, texts, and other elements are displayed properly."
+    Inventory testing,UI-0005,"Verify that icons, texts, and other elements are displayed properly."
+    Customer testing,UI-0006,"Verify that icons, texts, and other elements are displayed properly."
+    Catalog testing,UI-0007,"Verify that icons, texts, and other elements are displayed properly."
+    Delivery Rates testing,UI-0008,"Verify that icons, texts, and other elements are displayed properly."
+    Discount testing,UI-0009,"Verify that icons, texts, and other elements are displayed properly."
+    POS testing,UI-0010,"Verify that icons, texts, and other elements are displayed properly."
+    Order testing,UI-0011,"Verify that icons, texts, and other elements are displayed properly."
+    Settings testing,UI-0012,"Verify that icons, texts, and other elements are displayed properly."
+    Helpdesk testing,UI-0013,"Verify that icons, texts, and other elements are displayed properly."
+  DBCS Testing,,
+    User testing,UI-0014,Verify that DBCS inputs are saved and displayed properly.
+    Authentication testing,UI-0015,Verify that DBCS inputs are saved and displayed properly.
+    Category testing,UI-0016,Verify that DBCS inputs are saved and displayed properly.
+    Product testing,UI-0017,Verify that DBCS inputs are saved and displayed properly.
+    Inventory testing,UI-0018,Verify that DBCS inputs are saved and displayed properly.
+    Customer testing,UI-0019,Verify that DBCS inputs are saved and displayed properly.
+    Catalog testing,UI-0020,Verify that DBCS inputs are saved and displayed properly.
+    Delivery Rates testing,UI-0021,Verify that DBCS inputs are saved and displayed properly.
+    Discount testing,UI-0022,Verify that DBCS inputs are saved and displayed properly.
+    POS testing,UI-0023,Verify that DBCS inputs are saved and displayed properly.
+    Order testing,UI-0024,Verify that DBCS inputs are saved and displayed properly.
+    Settings testing,UI-0025,Verify that DBCS inputs are saved and displayed properly.
+    Helpdesk testing,UI-0026,Verify that DBCS inputs are saved and displayed properly.
+  UI Messages,,
+    Helper texts,UI-0027,Verify that UI helper texts are displayed properly.
+    Notification Drawer,UI-0028,Verify that notifications are working successfully.
+    Snackbar,UI-0029,Verify that snackbars are working successfully.
+    Toast notifications,UI-0030,Verify that toast notifications are working successfully.
+    Error Messages,UI-0031,Verify that error messages are displayed successfully.
+    Offline Mode testing,UI-0032,Verify that error messages are displayed during offline mode.
+  Error Messages,,
+    Error Message - X,UI-0033,"Verify that ""X"" error message is displayed successfully."
+    Error Message - Y,UI-0034,"Verify that ""Y"" error message is displayed successfully."
+    Error Message - Z,UI-0035,"Verify that ""Z"" error message is displayed successfully."
+Connectivity Testing,,
+  Wireless Communication Testing,,
+    2G/3G testing,CON-0001,Verify the app is working on 2G/3G network.
+    4G/LTE testing,CON-0002,Verify the app is working on 4G/LTE network.
+    5G testing,CON-0003,Verify the app is working on 5G network.
+    WiFi 802.11a/b/g/n testing,CON-0004,Verify the app is working using older WiFi network.
+    WiFi 6 testing,CON-0005,Verify the app is working using WiFi 6 network.
+  Ethernet testing,CON-0006,Verify the app is working using a wired setup.
+  Offline Mode testing,CON-0006,Verify the app is working in an offline mode setup.
+  Platform Compatibility,,
+"    Windows 8, 10, 11 testing",CON-0007,Verify the app is working on Windows platform.
+    MacOS testing,CON-0008,Verify the app is working on MacOS platform.
+    Unix-like testing,CON-0009,Verify the app is working on Unix-like platforms.
+    Android testing,CON-0010,Verify the app is working on Android devices.
+    iPhone/iPad testing,CON-0011,Verify the app is working on iPhone/iPad devices.
+Security Testing,,
+  Authentication Testing,,
+    Authentication testing - Sign Up with Username/Password,SEC-0001,Verify user can sign up with username and password.
+    Authentication testing - Log in with Username/Password,SEC-0002,Verify user can log in with username and password.
+    Authentication testing - Sign Up with Google,SEC-0003,Verify user can sign up with GSI.
+    Authentication testing - Log in with Google,SEC-0004,Verify user can log in with GSI.
+    Authentication testing - Sign Up with Facebook,SEC-0005,Verify user can sign up with Facebook.
+    Authentication testing - Log in with Facebook,SEC-0006,Verify user can log in with Facebook.
+    Authentication testing - Verify Email,SEC-0007,Verify user can verify account through email.
+    Authentication testing - Verify Number,SEC-0008,Verify user can verify account through phone number.
+    Authentication testing - Change Email,SEC-0009,Verify user can change email account.
+    Authentication testing - Forgot Password,SEC-0010,Verify user can recover lost account.
+  Penetration Testing,,
+    Web App Testing,,
+      User testing,SEC-0011,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Authentication testing,SEC-0012,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Category testing,SEC-0013,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Product testing,SEC-0014,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Inventory testing,SEC-0015,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Customer testing,SEC-0016,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Catalog testing,SEC-0017,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Discount testing,SEC-0018,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      POS testing,SEC-0019,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Order testing,SEC-0020,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Settings testing,SEC-0021,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Helpdesk testing,SEC-0022,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+    Mobile App Testing,,
+      User testing,SEC-0023,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Authentication testing,SEC-0024,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Category testing,SEC-0025,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Product testing,SEC-0026,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Inventory testing,SEC-0027,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Customer testing,SEC-0028,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Catalog testing,SEC-0029,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Discount testing,SEC-0030,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      POS testing,SEC-0031,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Order testing,SEC-0032,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Settings testing,SEC-0033,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+      Helpdesk testing,SEC-0034,Verify all inputs can handle Cross-Site Scripting (XSS) attacks.
+  Endpoint/API testing,SEC-0035,Verify that API is accessible and is secure.
+Performance Testing,,
+  Performance testing - POS Benchmark testing,PERF-0001,Verify that the app complies to the speed-test claims.
+  Performance testing - POS Maximum Items,PERF-0002,Verify that the app can transaction maximum items at checkouts.
+  Performance testing - POS 1000 checkouts,PERF-0003,Verify that the app can perform 1000 checkouts successively.
+  Performance testing - Maximum Users,PERF-0004,Verify that the app can add and view maximum users.
+  Performance testing - Maximum Categories,PERF-0005,Verify that the app can add and view maximum categories.
+  Performance testing - Maximum Products,PERF-0006,Verify that the app can add and view maximum products.
+  Performance testing - Maximum Inventory Items,PERF-0007,Verify that the app can add and view maximum inventory items.
+  Performance testing - Maximum Customers,PERF-0008,Verify that the app can add and view maximum customers.
+  Performance testing - Maximum Catalog Items,PERF-0009,Verify that the app can add and view maximum catalog items.
+  Performance testing - Maximum Discounts,PERF-0010,Verify that the app can add and view maximum discounts.
+  Upgrade/Downgrade Testing,,
+    Upgrade testing,PERF-0011,Verify that the application can upgrade successfully.
+    Downgrade testing,PERF-0012,Verify that the application can downgrade successfully.
+  Special Condition Testing,,
+    Out-of-the-Box testing,PERF-0013,Verify that the app can perform installation and setup successfully.
+    Low-bandwidth testing,PERF-0014,Verify that the app can handle POS operations in a congested network.
+    Doze-mode testing,PERF-0015,Verify that the app can handle POS operations after timeouts.
+    Low-power testing,PERF-0016,Verify that the app can handle POS operations in low battery mode.
+    Full Storage testing,PERF-0017,Verify that the app can display an error message when storage is full.
+    Memory Full testing,PERF-0018,Verify that the app can display an error message when memory is full.
