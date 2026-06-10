@@ -1,4 +1,4 @@
-## **USER-0004:** User testing - Edit  
+## **USER-0004:** User testing - Edit Username
 
 > **Summary:** Verify that username is modified and displayed successfully.  <br>
 

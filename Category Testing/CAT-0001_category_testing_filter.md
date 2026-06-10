@@ -1,4 +1,4 @@
-## **CAT-0005:** Category testing - Filter  
+## **CAT-0001:** Category testing - Filter  
 
 > **Summary:** Verify that the main page filters books by genre successfully.  <br>
 
