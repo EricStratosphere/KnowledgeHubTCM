@@ -1,14 +1,14 @@
-## **CATA-0005:** Catalog testing - Search  
+## **CATA-0003:** Catalog testing - Search  
 
-> **Summary:** Verify that search feature is working successfully.  <br>
+> **Summary:** Verify that search E-Book feature is working successfully.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** _User is authenticated.._  
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
+ |  1 |   Launch Program   | Verify that ...   | 
  |  2 |      | Verify that ...   | 
  |  3 |      | Verify that ...   |  
 
