@@ -8,12 +8,7 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
-
+ |  1 |   Open any Web Browser of your Choice and visit the url `https://luminary-books.vercel.app`   | Verify that the user is successful in visiting the website on the user's current platform.  | 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+_None_
