@@ -8,12 +8,10 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Launch Application   | Verify that the user is redirected to the login page since authentication has not been confirmed yet   | 
+ |  2 |   In the login page, at the very bottom of the modal, click the emboldened `Sign Up`.  | Verify that the user is redirected to the sign-up page.   | 
+ |  3 |   Fill out the fields accordingly in the Sign Up modal. (`E-Mail Address, First Name, Last Name, Password`) and click the `Create Account`button.  | Verify that the user is successful in Signing Up their profile to the platform.  |  
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - The user will be able to access authorized features based on their role (Reader, Writer, Admin). 

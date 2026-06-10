@@ -8,12 +8,9 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Launch Application   | Verify that the user is redirected to the login page since authentication has not been confirmed yet   | 
+ |  2 |   In the login page, fill out the forms accordingly `E-Mail Address, Password` and click `Sign In` button.  | Verify that the user is successfully authenticated and redirected to the main-page.   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - The user will be able to access authorized features based on their role (Reader, Writer, Admin). 
